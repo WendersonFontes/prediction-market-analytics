@@ -1,0 +1,8 @@
+# Ignorar arquivos de dados
+data_lake/*.csv
+data_lake/*.parquet
+data_lake/*.json
+
+# Ignorar arquivos temporários do Python
+__pycache__/
+*.pyc
